@@ -27,23 +27,23 @@ Una aplicación web rápida y responsiva diseñada para J.S.P Abogados. Esta her
 Sigue estos pasos para correr el proyecto en tu entorno de desarrollo:
 
 1. Clonar el repositorio:
-   ```bash
-   git clone https://github.com/Jdalvarezpd/agente-reconocimiento-jsp.git
-   cd agente-reconocimiento-jsp
-   ```
+ ```bash
+ git clone https://github.com/Jdalvarezpd/agente-reconocimiento-jsp.git
+ cd agente-reconocimiento-jsp
+ ```
 
 2. Instalar dependencias:
-   ```bash
-   npm install
-   ```
+ ```bash
+ npm install
+ ```
 
 3. Iniciar el servidor de desarrollo:
-   ```bash
-   npm run dev
-   ```
+ ```bash
+ npm run dev
+ ```
 
 4. Acceder a la aplicación:
-   Abre tu navegador y navega a http://localhost:5173/.
+ Abre tu navegador y navega a http://localhost:5173/.
 
 ## Construcción para Producción
 
